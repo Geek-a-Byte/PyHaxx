@@ -17,7 +17,7 @@ The simple answer starts with a simple question “Why Shouldn’t You?”
 
 > Python supports cross platform development. What is cross platform development? If you develop an android application it would work in IOS as well. Even if you develop a desktop application it can be executed in any operating systems WINDOWS or LINUX
 
-> Python has two very famous frameworks for backend development. Flask and Django (read it jango :|). So for job preparation one can prepare him/herself learning any of the two frameworks very well. 
+> Python has two very famous frameworks for backend development. Flask and Django (read it jango :-|). So for job preparation one can prepare him/herself learning any of the two frameworks very well. 
 
 > In higher studies , in different sectors python is needed badly. Such as Artificial Intelligence, Machine learning, Data Science.
 
