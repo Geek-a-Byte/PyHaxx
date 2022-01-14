@@ -53,15 +53,15 @@ So if you excel in only one programming language python, then your career will h
 
 ## Resources
 
-- [ ] [Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
-- [ ] [Real Python](https://realpython.com/start-here/)
-- [ ] [Python 3.10.0 tutorial documentation](https://docs.python.org/3.10/tutorial/index.html)
-- [ ] [Kaggle](https://www.kaggle.com/learn)
-- [ ] [Playlist of mahmudul haque bhaiya for MIC python course(last year)](https://www.youtube.com/watch?v=_8I1ZeHgZmQ&list=PLuNlCVN6bOLOaZWFM2MMfauagHqNXgDzs)
-- [ ] [freecodecamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- [Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
+- [Real Python](https://realpython.com/start-here/)
+- [Python 3.10.0 tutorial documentation](https://docs.python.org/3.10/tutorial/index.html)
+- [Kaggle](https://www.kaggle.com/learn)
+- [Playlist of mahmudul haque bhaiya for MIC python course(last year)](https://www.youtube.com/watch?v=_8I1ZeHgZmQ&list=PLuNlCVN6bOLOaZWFM2MMfauagHqNXgDzs)
+- [freecodecamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 ## Practise Problems
 
-- [ ] [Github repo - Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises%20for%20Python%203.md)
-- [ ] [Hackerrank](https://www.hackerrank.com/domains/python)
-- [ ] [W3school](https://www.w3schools.com/python/default.asp)
+- [Github repo - Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises%20for%20Python%203.md)
+- [Hackerrank](https://www.hackerrank.com/domains/python)
+- [W3school](https://www.w3schools.com/python/default.asp)
