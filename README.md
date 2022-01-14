@@ -1,5 +1,31 @@
 # PyHaxx
 
+<details>
+  <summary>Object Oriented Programming</summary>
+</details>
+<details>
+  <summary>Dictionary</summary>
+</details>
+<details>
+  <summary>Lists</summary>
+</details>
+<details>
+  <summary>Working with external libraries</summary>
+</details>
+<details>
+  <summary>Exceptions</summary>
+</details>
+<details>
+  <summary>Itertools</summary>
+</details>
+<details>
+  <summary>Map</summary>
+</details>
+<details>
+  <summary>Filter</summary>
+</details>
+
+
 ## Motivation ^_^
 
 I know learning a new thing needs the answer to “WHY SHOULD I EVEN LEARN THIS STUFF? HOW CAN I APPLY THIS LEARNING IN PRACTICAL LIFE?”. So here we go for the answer now..
