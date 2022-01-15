@@ -26,7 +26,16 @@ Methods are functions defined inside the body of a class. They are used to defin
 <pre>
 Inheritance is a way of creating a new class for using details of an existing class without modifying it. 
 The newly formed class is a derived class (or child class). Similarly, the existing class is a base class (or parent class).
+
+  class BaseClass:
+  Body of base class
+  class DerivedClass(BaseClass):
+  Body of derived class
+  
 </pre>
+
+
+
 <h3>Encapsulation</h3>
 <pre>
 Using OOP in Python, we can restrict access to methods and variables. This prevents data from direct modification which is called encapsulation. In Python, we denote private attributes using underscore as the prefix i.e single _ or double __.
