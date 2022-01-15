@@ -130,6 +130,51 @@ In Python, we denote private attributes using underscore as the prefix i.e singl
 </details>
 <details>
   <summary>Exceptions</summary>
+  <pre>
+  We can make certain mistakes while writing a program that lead to errors when we try to run it. 
+  A python program terminates as soon as it encounters an unhandled error. 
+  These errors can be broadly classified into two classes:
+  - Syntax errors
+  - Logical errors (Exceptions)
+  </pre>
+  <h3>Python Syntax Errors</h3>
+  <pre>
+  Error caused by not following the proper structure (syntax) of the language is called syntax error or parsing error.
+  </pre>
+  <h3>Python Logical Errors (Exceptions)</h3>
+  <pre>Errors that occur at runtime (after passing the syntax test) are called exceptions or logical errors.
+  For instance,
+  - they occur when we try to open a file(for reading) that does not exist (FileNotFoundError)
+  - try to divide a number by zero (ZeroDivisionError)
+  - try to import a module that does not exist (ImportError)
+  <br>
+  Whenever these types of runtime errors occur, Python creates an exception object. 
+  If not handled properly, it prints a traceback to that error along with some details about why that error occurred.
+  When these exceptions occur, the Python interpreter stops the current process and 
+  passes it to the calling process until it is handled. 
+  If not handled, the program will crash.
+  </pre>
+  <h3>
+  Python Built-in Exceptions
+  </h3>
+  <pre>
+  Illegal operations can raise exceptions. 
+  There are plenty of built-in exceptions in Python that are raised when corresponding errors occur.
+  We can view all the built-in exceptions using the built-in local() function as follows:
+  <br>
+  print(dir(locals()['__builtins__']))
+  <br>
+  </pre>
+  <h3>Catching Exceptions in Python</h3>
+  <pre>
+  In Python, exceptions can be handled using a try statement.
+  The critical operation which can raise an exception is placed inside the try clause.
+  The code that handles the exceptions is written in the except clause.
+  </pre>
+  <h3>User Defined Exceptions</h3>
+
+  [Learn how to define an exception](https://www.programiz.com/python-programming/user-defined-exception)
+
 </details>
 <details>
   <summary>Itertools</summary>
