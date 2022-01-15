@@ -92,6 +92,19 @@ Using OOP in Python, we can restrict access to methods and variables. This preve
 </details>
 <details>
   <summary>Map</summary>
+  <h3>map() Parameter</h3>
+    <pre>
+The map() function takes two parameters:
+function - a function that perform some action to each element of an iterable
+iterable - an iterable like sets, lists, tuples, etc
+You can pass more than one iterable to the map() function.
+    </pre>
+  <h3>Map Return Value</h3>
+  <pre>
+  The map() function returns an object of map class. The returned value can be passed to functions like
+  list() - to convert to list
+  set() - to convert to a set, and so on.
+  </pre>
 </details>
 <details>
   <summary>Filter</summary>
