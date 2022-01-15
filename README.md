@@ -35,12 +35,14 @@ The newly formed class is a derived class (or child class). Similarly, the exist
 </pre>
   <h3>Method Overriding</h3>
   <pre>
-  Generally when overriding a base method by a derived method, we tend to extend the definition of base method rather than replacing it.
+  Generally when overriding a base method by a derived method,
+  we tend to extend the definition of base method rather than replacing it.
   </pre>
   
   <h3>Multiple Inheritance</h3>
   <pre>
-  A class can be derived from more than one base class in Python, similar to C++. This is called multiple inheritance.
+  A class can be derived from more than one base class in Python, similar to C++. 
+  This is called multiple inheritance.
   In multiple inheritance, the features of all the base classes are inherited into the derived class. 
   <br>
     class Base1:
@@ -53,7 +55,8 @@ The newly formed class is a derived class (or child class). Similarly, the exist
   </pre>
   <h3>Multilevel Inheritance</h3>
   <pre>
-  We can also inherit from a derived class. This is called multilevel inheritance. It can be of any depth in Python.
+  We can also inherit from a derived class. This is called multilevel inheritance. 
+  It can be of any depth in Python.
 In multilevel inheritance, features of the base class and the derived class are inherited into the new derived class.
   <br>
   class Base:
@@ -66,12 +69,15 @@ In multilevel inheritance, features of the base class and the derived class are 
   
 <h3>Encapsulation</h3>
 <pre>
-Using OOP in Python, we can restrict access to methods and variables. This prevents data from direct modification which is called encapsulation. In Python, we denote private attributes using underscore as the prefix i.e single _ or double __.
+Using OOP in Python, we can restrict access to methods and variables. 
+This prevents data from direct modification which is called encapsulation. 
+In Python, we denote private attributes using underscore as the prefix i.e single _ or double __.
 </pre>
   <h3>Polymorphism</h3>
   <pre>
   Polymorphism allows the same interface for different objects.
-  Suppose, we need to color a shape, there are multiple shape options (rectangle, square, circle). However we could use the same method to color any shape. This concept is called Polymorphism.
+  Suppose, we need to color a shape, there are multiple shape options (rectangle, square, circle). 
+  However we could use the same method to color any shape. This concept is called Polymorphism.
   </pre>
     
 </details>
@@ -101,7 +107,8 @@ You can pass more than one iterable to the map() function.
     </pre>
   <h3>Map Return Value</h3>
   <pre>
-  The map() function returns an object of map class. The returned value can be passed to functions like
+  The map() function returns an object of map class. 
+  The returned value can be passed to functions like
   list() - to convert to list
   set() - to convert to a set, and so on.
   </pre>
@@ -112,8 +119,13 @@ You can pass more than one iterable to the map() function.
 <details>
   <summary>Lambda Functions</summary>
   <pre>
-  an anonymous function is a function that is defined without a name.While normal functions are defined using the def keyword in Python, anonymous functions are defined using the lambda keyword.Hence, anonymous functions are also called lambda functions.
+  an anonymous function is a function that is defined without a name.
+  While normal functions are defined using the def keyword in Python, 
+  anonymous functions are defined using the lambda keyword.
+  Hence, anonymous functions are also called lambda functions.
   </pre>
+  <h3>Syntax of Lambda Function in python</h3>
+  <pre>lambda arguments: expression</pre>
   </details>
 
 ## Motivation ^_^
