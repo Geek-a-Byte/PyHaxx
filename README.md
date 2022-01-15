@@ -26,7 +26,11 @@ When class is defined, only the description for the object is defined. Therefore
 <pre>
 Methods are functions defined inside the body of a class. They are used to define the behaviors of an object.
 </pre>
-   
+<h3>Inheritance:</h3>
+<pre>
+Inheritance is a way of creating a new class for using details of an existing class without modifying it. 
+The newly formed class is a derived class (or child class). Similarly, the existing class is a base class (or parent class).
+</pre>
 </details>
 <details>
   <summary>Dictionary</summary>
