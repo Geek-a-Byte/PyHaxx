@@ -38,7 +38,7 @@ Using OOP in Python, we can restrict access to methods and variables. This preve
   <h3>Polymorphism</h3>
   <pre>
   Polymorphism allows the same interface for different objects.
-  Suppose, we need to color a shape, there are multiple shape options (rectangle, square, circle). However we could use the same method to color any shape. This concept is         called Polymorphism.
+  Suppose, we need to color a shape, there are multiple shape options (rectangle, square, circle). However we could use the same method to color any shape. This concept is called Polymorphism.
   </pre>
     
 </details>
