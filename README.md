@@ -109,7 +109,12 @@ You can pass more than one iterable to the map() function.
 <details>
   <summary>Filter</summary>
 </details>
-
+<details>
+  <summary>Lambda Functions</summary>
+  <pre>
+  an anonymous function is a function that is defined without a name.While normal functions are defined using the def keyword in Python, anonymous functions are defined using the lambda keyword.Hence, anonymous functions are also called lambda functions.
+  </pre>
+  </details>
 
 ## Motivation ^_^
 
