@@ -1,28 +1,28 @@
 # PyHaxx
 
 <details>
-  <summary>Object Oriented Programming</summary>
-  <h3> An object has two characteristics: </h3>
-  <pre>
-  - attributes
-  - methods/behaviours
-  A parrot is an object, as it has the following properties: name, age, color as attributes and singing, dancing as behavior
-  The concept of OOP in Python focuses on creating reusable code. This concept is also known as DRY (Don't Repeat Yourself).
-  </pre>
-  <h3>Class:</h3>
-  <pre>
-  A class is a blueprint for the object.
-  We can think of class as a sketch of a parrot with labels. 
-  It contains all the details about the name, colors, size etc. Based on these descriptions, we can study about the parrot. 
-  Here, a parrot is an object. From class, we construct instances. 
-  An instance is a specific object created from a particular class.
-  </pre>
-  <h3>Object:</h3>
-  <pre>
-  An object (instance) is an instantiation of a class. 
-  When class is defined, only the description for the object is defined. Therefore, no memory or storage is allocated.
-  </pre>
-
+<summary>Object Oriented Programming</summary>
+<h3> An object has two characteristics: </h3>
+<pre>
+- attributes
+- methods/behaviours
+A parrot is an object, as it has the following properties: name, age, color as attributes and singing, dancing as behavior
+The concept of OOP in Python focuses on creating reusable code. This concept is also known as DRY (Don't Repeat Yourself).
+</pre>
+<h3>Class:</h3>
+<pre>
+A class is a blueprint for the object.
+We can think of class as a sketch of a parrot with labels. 
+It contains all the details about the name, colors, size etc. Based on these descriptions, we can study about the parrot. 
+Here, a parrot is an object. From class, we construct instances. 
+An instance is a specific object created from a particular class.
+</pre>
+<h3>Object:</h3>
+<pre>
+An object (instance) is an instantiation of a class. 
+When class is defined, only the description for the object is defined. Therefore, no memory or storage is allocated.
+</pre>
+   
 </details>
 <details>
   <summary>Dictionary</summary>
