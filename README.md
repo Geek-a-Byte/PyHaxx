@@ -43,16 +43,13 @@ The newly formed class is a derived class (or child class). Similarly, the exist
   A class can be derived from more than one base class in Python, similar to C++. This is called multiple inheritance.
   In multiple inheritance, the features of all the base classes are inherited into the derived class. 
   <br>
-  class Base1:
-    pass
-
-  class Base2:
-    pass
-
-  class MultiDerived(Base1, Base2):
-    pass
-    ![Capture](https://user-images.githubusercontent.com/59027621/149613631-b3f75f37-61bb-4c7a-b738-2af5d5c3061a.JPG)
-
+    class Base1:
+      pass
+    class Base2:
+      pass
+    class MultiDerived(Base1, Base2):
+      pass
+<!--     ![Capture](https://user-images.githubusercontent.com/59027621/149613631-b3f75f37-61bb-4c7a-b738-2af5d5c3061a.JPG) -->
   </pre>
   
 <h3>Encapsulation</h3>
