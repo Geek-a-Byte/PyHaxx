@@ -115,6 +115,23 @@ You can pass more than one iterable to the map() function.
 </details>
 <details>
   <summary>Filter</summary>
+  <pre>
+  The filter() function extracts elements from an iterable (list, tuple etc.) for which a function returns True.
+  </pre>
+  <h3>filter() Syntax</h3>
+  <pre>
+  filter(function, iterable)
+  </pre>
+  <h3>filter() Parameter</h3>
+    <pre>
+function - a function that perform some action to each element of an iterable
+iterable - an iterable like sets, lists, tuples, etc
+    </pre>
+  <h3>Return Value</h3>
+  <pre>
+  The filter() function returns an iterator.
+  You can easily convert iterators to sequences like lists, tuples, strings etc.
+  </pre>
 </details>
 <details>
   <summary>Lambda Functions</summary>
