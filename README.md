@@ -51,7 +51,10 @@ The newly formed class is a derived class (or child class). Similarly, the exist
 
   class MultiDerived(Base1, Base2):
     pass
+    ![Capture](https://user-images.githubusercontent.com/59027621/149613631-b3f75f37-61bb-4c7a-b738-2af5d5c3061a.JPG)
+
   </pre>
+  
 <h3>Encapsulation</h3>
 <pre>
 Using OOP in Python, we can restrict access to methods and variables. This prevents data from direct modification which is called encapsulation. In Python, we denote private attributes using underscore as the prefix i.e single _ or double __.
