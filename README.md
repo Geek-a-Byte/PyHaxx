@@ -177,9 +177,6 @@ In Python, we denote private attributes using underscore as the prefix i.e singl
 
 </details>
 <details>
-  <summary>Itertools</summary>
-</details>
-<details>
   <summary>Map</summary>
   <h3>map() Parameter</h3>
     <pre>
