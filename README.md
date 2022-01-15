@@ -16,10 +16,6 @@ We can think of class as a sketch of a parrot with labels.
 It contains all the details about the name, colors, size etc. Based on these descriptions, we can study about the parrot. 
 Here, a parrot is an object. From class, we construct instances. 
 An instance is a specific object created from a particular class.
-</pre>
-<h3>Object:</h3>
-<pre>
-An object (instance) is an instantiation of a class. 
 When class is defined, only the description for the object is defined. Therefore, no memory or storage is allocated.
 </pre>
 <h3>Methods:</h3>
