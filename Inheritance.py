@@ -13,8 +13,8 @@ class Bird:
         print("Swim faster")
 
 # child class
-# The child class inherits the functions of parent class. We can see this from the swim() method.
-# Again, the child class modified the behavior of the parent class. 
+# The child class inherits all the functions of parent class. __init__(), swim(), whoisThis() method.
+# the child class can modify the behavior of the parent class. 
 # We can see this from the whoisThis() method. Furthermore, we extend the functions of the parent class, by creating a new run() method.
 
 class Penguin(Bird):
