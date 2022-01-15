@@ -58,10 +58,8 @@ In multilevel inheritance, features of the base class and the derived class are 
   <br>
   class Base:
     pass
-
   class Derived1(Base):
     pass
-
   class Derived2(Derived1):
     pass
   </pre>
