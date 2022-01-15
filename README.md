@@ -33,8 +33,10 @@ The newly formed class is a derived class (or child class). Similarly, the exist
   Body of derived class
   
 </pre>
-
-
+  <h3>Method Overriding</h3>
+  <pre>
+  Generally when overriding a base method by a derived method, we tend to extend the definition of base method rather than replacing it.
+  </pre>
 
 <h3>Encapsulation</h3>
 <pre>
