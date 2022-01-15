@@ -22,6 +22,10 @@ An instance is a specific object created from a particular class.
 An object (instance) is an instantiation of a class. 
 When class is defined, only the description for the object is defined. Therefore, no memory or storage is allocated.
 </pre>
+<h3>Methods:</h3>
+<pre>
+Methods are functions defined inside the body of a class. They are used to define the behaviors of an object.
+</pre>
    
 </details>
 <details>
