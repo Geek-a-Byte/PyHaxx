@@ -26,7 +26,7 @@ Methods are functions defined inside the body of a class. They are used to defin
 <pre>
 Inheritance is a way of creating a new class for using details of an existing class without modifying it. 
 The newly formed class is a derived class (or child class). Similarly, the existing class is a base class (or parent class).
-
+<br>
   class BaseClass:
   Body of base class
   class DerivedClass(BaseClass):
@@ -42,6 +42,15 @@ The newly formed class is a derived class (or child class). Similarly, the exist
   <pre>
   A class can be derived from more than one base class in Python, similar to C++. This is called multiple inheritance.
   In multiple inheritance, the features of all the base classes are inherited into the derived class. 
+  <br>
+  class Base1:
+    pass
+
+  class Base2:
+    pass
+
+  class MultiDerived(Base1, Base2):
+    pass
   </pre>
 <h3>Encapsulation</h3>
 <pre>
