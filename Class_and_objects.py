@@ -19,10 +19,8 @@ print("Woo is also a {}".format(woo.__class__.species))
 # access the instance attributes
 print("{} is {} years old".format( blu.name, blu.age))
 print("{} is {} years old".format( woo.name, woo.age))
+
 # In the above program, we created a class with the name Parrot. Then, we define attributes. The attributes are a characteristic of an object.
-
 # These attributes are defined inside the __init__ method of the class. It is the initializer method that is first run as soon as the object is created.
-
 # Then, we create instances of the Parrot class. Here, blu and woo are references (value) to our new objects.
-
 # We can access the class attribute using __class__.species. Class attributes are the same for all instances of a class. Similarly, we access the instance attributes using blu.name and blu.age. However, instance attributes are different for every instance of a class.
