@@ -35,7 +35,11 @@ The newly formed class is a derived class (or child class). Similarly, the exist
 <pre>
 Using OOP in Python, we can restrict access to methods and variables. This prevents data from direct modification which is called encapsulation. In Python, we denote private attributes using underscore as the prefix i.e single _ or double __.
 </pre>
-  <h3>
+  <h3>Polymorphism</h3>
+  <pre>
+  Polymorphism allows the same interface for different objects.
+  Suppose, we need to color a shape, there are multiple shape options (rectangle, square, circle). However we could use the same method to color any shape. This concept is         called Polymorphism.
+  </pre>
     
 </details>
 <details>
