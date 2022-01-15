@@ -109,6 +109,9 @@ In Python, we denote private attributes using underscore as the prefix i.e singl
 </details>
 <details>
   <summary>Dictionary</summary>
+  
+  ![image](https://user-images.githubusercontent.com/59027621/149619747-5c553541-b106-472a-972e-90546876ce2c.png)
+
 </details>
 <details>
   <summary>Lists</summary>
