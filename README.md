@@ -125,6 +125,7 @@ So if you excel in only one programming language python, then your career will h
 
 ## Resources
 
+- [Programiz (the easiest explanation so far according to me)](https://www.programiz.com/python-programming)
 - [Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
 - [Real Python](https://realpython.com/start-here/)
 - [Python 3.10.0 tutorial documentation](https://docs.python.org/3.10/tutorial/index.html)
