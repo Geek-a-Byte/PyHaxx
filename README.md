@@ -2,10 +2,9 @@
 
 <details>
 <summary>Object Oriented Programming</summary>
-<h3> An object has two characteristics: </h3>
+<h3> Object: </h3>
 <pre>
-- attributes
-- methods/behaviours
+An object is simply a collection of data (variables) and methods (functions) that act on those data.
 A parrot is an object, as it has the following properties: name, age, color as attributes and singing, dancing as behavior
 The concept of OOP in Python focuses on creating reusable code. This concept is also known as DRY (Don't Repeat Yourself).
 </pre>
