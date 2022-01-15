@@ -51,6 +51,20 @@ The newly formed class is a derived class (or child class). Similarly, the exist
       pass
 <!--     ![Capture](https://user-images.githubusercontent.com/59027621/149613631-b3f75f37-61bb-4c7a-b738-2af5d5c3061a.JPG) -->
   </pre>
+  <h3>Multilevel Inheritance</h3>
+  <pre>
+  We can also inherit from a derived class. This is called multilevel inheritance. It can be of any depth in Python.
+In multilevel inheritance, features of the base class and the derived class are inherited into the new derived class.
+  <br>
+  class Base:
+    pass
+
+  class Derived1(Base):
+    pass
+
+  class Derived2(Derived1):
+    pass
+  </pre>
   
 <h3>Encapsulation</h3>
 <pre>
