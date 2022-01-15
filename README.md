@@ -188,4 +188,4 @@ So if you excel in only one programming language python, then your career will h
 - [W3school](https://www.w3schools.com/python/default.asp)
 
 ## Unique Project Ideas with python
--[Crio](https://www.crio.do/projects/category/python-projects)
+- [Crio](https://www.crio.do/projects/category/python-projects)
