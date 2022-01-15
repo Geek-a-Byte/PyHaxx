@@ -198,3 +198,4 @@ So if you excel in only one programming language python, then your career will h
 
 ## Unique Project Ideas with python
 - [Crio](https://www.crio.do/projects/category/python-projects)
+- [Python mini projects with source code](https://github.com/Python-World/python-mini-projects)
