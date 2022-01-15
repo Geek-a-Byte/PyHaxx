@@ -37,7 +37,12 @@ The newly formed class is a derived class (or child class). Similarly, the exist
   <pre>
   Generally when overriding a base method by a derived method, we tend to extend the definition of base method rather than replacing it.
   </pre>
-
+  
+  <h3>Multiple Inheritance</h3>
+  <pre>
+  A class can be derived from more than one base class in Python, similar to C++. This is called multiple inheritance.
+  In multiple inheritance, the features of all the base classes are inherited into the derived class. 
+  </pre>
 <h3>Encapsulation</h3>
 <pre>
 Using OOP in Python, we can restrict access to methods and variables. This prevents data from direct modification which is called encapsulation. In Python, we denote private attributes using underscore as the prefix i.e single _ or double __.
