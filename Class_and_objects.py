@@ -1,5 +1,5 @@
 class Parrot:
-
+    '''This is a docstring. I have created a new class'''
     # class attribute
     species = "bird"
 
