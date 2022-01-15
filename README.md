@@ -2,6 +2,22 @@
 
 <details>
   <summary>Object Oriented Programming</summary>
+  <pre>
+  An object has two characteristics:
+  - attributes
+  - methods/behaviours
+  Let's take an example:
+  A parrot is an object, as it has the following properties: name, age, color as attributes and singing, dancing as behavior
+  The concept of OOP in Python focuses on creating reusable code. This concept is also known as DRY (Don't Repeat Yourself).
+  
+  Class: 
+  A class is a blueprint for the object.
+
+  We can think of class as a sketch of a parrot with labels. It contains all the details about the name, colors, size etc. Based on these descriptions, we can study about the     parrot. Here, a parrot is an object. From class, we construct instances. An instance is a specific object created from a particular class.
+  
+  Object:
+  An object (instance) is an instantiation of a class. When class is defined, only the description for the object is defined. Therefore, no memory or storage is allocated.
+  </pre>
 </details>
 <details>
   <summary>Dictionary</summary>
