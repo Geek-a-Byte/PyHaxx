@@ -5,7 +5,8 @@
 <h3> Object: </h3>
 <pre>
 An object is simply a collection of data (variables) and methods (functions) that act on those data.
-A parrot is an object, as it has the following properties: name, age, color as attributes and singing, dancing as behavior
+A parrot is an object, as it has the following properties: name, age, color as attributes and singing, dancing as behavior.
+An object is also called an instance of a class and the process of creating this object is called instantiation.
 The concept of OOP in Python focuses on creating reusable code. This concept is also known as DRY (Don't Repeat Yourself).
 </pre>
 <h3>Class:</h3>
