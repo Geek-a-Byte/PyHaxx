@@ -1,4 +1,5 @@
 class Parrot:
+    ## docstring is a brief description of the class. Although not mandatory, this is highly recommended.
     '''This is a docstring. I have created a new class'''
     # class attribute
     species = "bird"
