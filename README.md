@@ -86,6 +86,12 @@ In Python, we denote private attributes using underscore as the prefix i.e singl
 </details>
 <details>
   <summary>Lists</summary>
+  
+  - [list_basics](https://github.com/Geek-a-Byte/PyHaxx/blob/main/list.py)
+  - [list_comprehension](https://github.com/Geek-a-Byte/PyHaxx/blob/main/List_comprehension.py)
+  
+  ![image](https://user-images.githubusercontent.com/59027621/149617730-b73473c3-983e-4eee-a1f6-16683f2189c2.png)
+
 </details>
 <details>
   <summary>Working with external libraries</summary>
