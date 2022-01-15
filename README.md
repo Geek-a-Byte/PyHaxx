@@ -25,7 +25,7 @@ The simple answer starts with a simple question “Why Shouldn’t You?”
 
 So if you excel in only one programming language python, then your career will have the boost it needs for sure <3.
 
-
+## Day 2 Basics
 <details>
 <summary>Object Oriented Programming</summary>
 <h3> Object: </h3>
