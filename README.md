@@ -59,6 +59,7 @@ So if you excel in only one programming language python, then your career will h
 - [Kaggle](https://www.kaggle.com/learn)
 - [Playlist of mahmudul haque bhaiya for MIC python course(last year)](https://www.youtube.com/watch?v=_8I1ZeHgZmQ&list=PLuNlCVN6bOLOaZWFM2MMfauagHqNXgDzs)
 - [freecodecamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- [Sumon's Acamedy](https://www.youtube.com/watch?v=GGO_h-P2TPk)
 
 ## Practise Problems
 
