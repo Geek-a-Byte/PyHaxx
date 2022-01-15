@@ -95,6 +95,9 @@ In Python, we denote private attributes using underscore as the prefix i.e singl
 </details>
 <details>
   <summary>Working with external libraries</summary>
+  
+  [tutorial link](https://app.gitbook.com/s/98WyytUmB4pfdMH3QiQy/)
+  
 </details>
 <details>
   <summary>Exceptions</summary>
