@@ -249,3 +249,4 @@ iterable - an iterable like sets, lists, tuples, etc
 - [Python mini projects with source code](https://github.com/Python-World/python-mini-projects)
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 - [tiny python projects](http://tinypythonprojects.com/)
+- [Amazing Python Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
