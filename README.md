@@ -229,6 +229,7 @@ iterable - an iterable like sets, lists, tuples, etc
 ## Resources
 
 - [Programiz (the easiest explanation so far according to me)](https://www.programiz.com/python-programming)
+- [Tamim Subeen's pybook](http://pybook.subeen.com/)
 - [Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
 - [Real Python](https://realpython.com/start-here/)
 - [Python 3.10.0 tutorial documentation](https://docs.python.org/3.10/tutorial/index.html)
