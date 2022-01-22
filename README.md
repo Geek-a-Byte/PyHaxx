@@ -244,6 +244,7 @@ iterable - an iterable like sets, lists, tuples, etc
 - [Github repo - Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises%20for%20Python%203.md)
 - [Hackerrank](https://www.hackerrank.com/domains/python)
 - [W3school](https://www.w3schools.com/python/default.asp)
+- [ultimate python](https://github.com/huangsam/ultimate-python)
 
 ## Unique Project Ideas with python
 - [Crio](https://www.crio.do/projects/category/python-projects)
